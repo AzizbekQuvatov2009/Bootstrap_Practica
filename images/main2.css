@@ -1,0 +1,40 @@
+body{
+    background-image:url("../images/color_body_bg_image.jpg");
+}
+.fad{
+}
+.rad{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: -100px;
+    border: 1px solid;
+    width: 450px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px 0 gray;
+}
+.gad{
+    margin-top: 100px;
+}
+.zich{
+
+}
+.rad1{
+    background-color: white;
+    margin-top: 50px;
+    margin-right: -100px;
+    border: 1px solid;
+    width: 450px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px 0 gray;
+}
+.koa{
+    margin-top:30px;
+}
+.fard{
+    margin-top: 250px;
+    margin-left: 40px;
+}
+.gha{
+    margin-top: 20px;
+    margin-left: 70px;
+}

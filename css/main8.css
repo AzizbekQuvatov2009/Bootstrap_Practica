@@ -1,0 +1,396 @@
+.navb{
+    background-image:url("../images/color_body_bg_image.jpg");
+}
+.saf{
+
+    margin-left: 15px;
+}
+.hsd1{
+    margin-left: 10px;
+}
+.tok{
+    margin-left: 40px;
+}
+.faf{
+    background-color: wheat;
+}
+.sar{
+    background-color: pink;
+}
+.gha{
+    color: pink;
+}
+.ham{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.efa{
+    color: pink;
+}
+.bor{
+    width: 9px;
+    height: 9px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: #17a2b8;
+    margin-left: 85px;
+}
+.bor1{
+    width: 9px;
+    height: 9px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color:pink;
+    margin-left: 100px;
+    margin-top: -9px;
+}
+.efa1{
+    margin-top: -25px;
+    margin-left: 70px;
+    color: pink;
+}
+.kor{
+    float: left;
+    margin-left: 20px;
+}
+
+.top1{
+    margin-left: 30px;
+}
+.bka{
+    color: pink;
+}
+.stop{
+    color: #34ce57;
+}
+.stak{
+    color: #17a2b8;
+}
+.vat{
+    background-color: pink;
+}
+.tya{
+    background-color: #17a2b8;
+}
+.jab{
+    margin-left: 200px;
+    margin-top: -130px;
+}
+.navbar-menu{
+    color: black;
+    text-decoration: none;
+}
+.navbar{
+    background-color: white;
+}
+.sub-menu{
+    display: none;
+    width: 200px;
+    height: 5px;
+    z-index:2;
+    position:absolute ;
+    color: black;
+}
+.navbar-menu .drop-menu:hover .sub-menu{
+    display: block;
+    background-color: white;
+    border: 1px solid grey;
+    height:200px;
+    color: black;
+    margin-top: 25px;
+
+}
+.container{
+    position: relative;
+    z-index: 1;
+}
+.bggg{
+    background-color: lightgray;
+}.navb{
+    background-image:url("../images/color_body_bg_image.jpg");
+}
+.saf{
+
+    margin-left: 15px;
+}
+.hsd1{
+    margin-left: 10px;
+}
+.tok{
+    margin-left: 40px;
+}
+.faf{
+    background-color: wheat;
+}
+.sar{
+    background-color: pink;
+}
+.gha{
+    color: pink;
+}
+.ham{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.efa{
+    color: pink;
+}
+.bor{
+    width: 9px;
+    height: 9px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: #17a2b8;
+    margin-left: 85px;
+}
+.bor1{
+    width: 9px;
+    height: 9px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color:pink;
+    margin-left: 100px;
+    margin-top: -9px;
+}
+.efa1{
+    margin-top: -25px;
+    margin-left: 70px;
+    color: pink;
+}
+.kor{
+    float: left;
+    margin-left: 20px;
+}
+
+.top1{
+    margin-left: 30px;
+}
+.bka{
+    color: pink;
+}
+.stop{
+    color: #34ce57;
+}
+.stak{
+    color: #17a2b8;
+}
+.vat{
+    background-color: pink;
+}
+.tya{
+    background-color: #17a2b8;
+}
+.jab{
+    margin-left: 200px;
+    margin-top: -130px;
+}
+.brdr{
+}
+.bbb{
+    padding: 10px;
+}
+.bg-secondary {
+    background-color: #d7d6d6 !important;
+}
+
+.navbar.bg-danger {
+    background-color: #b1f5e4 !important;
+}
+
+.m.card{
+    padding: 2%;
+    background-image: url("../rasm/color_body_bg_image.jpg");
+    margin-top: -1%;
+}
+.m.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+.py-3.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid lightgray;
+    border-radius: 0;
+}
+.bg-danger.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+.bg-secondary.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+.msa{
+    margin-top: 2%;
+}
+
+.bb{
+    background-color: #77e9dd;
+    width: 3%;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 3%;
+    right: 25%;
+    font-size: 40px;
+    color: white;
+    padding-left: 25px;
+}
+
+.bb:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.text-dark {
+    color: #f6a0c2 !important;
+}
+.card.bg-danger {
+    background-color: #cfa864 !important;
+}
+
+.bg-primary {
+    background-color: #00ffa6 !important;
+}
+.bg-dark {
+    background-color: pink!important;
+}
+.mra{
+    margin-top: -145px;
+}
+.mtt{
+    margin-top: -39.5%;
+}
+.inn{
+    margin-top: -8.5%;
+}
+.mmi{
+    margin-top: -40%;
+    margin-left: 23%;
+}
+.mmo{
+    margin-top: -28%;
+    margin-left: 23%;
+}
+
+
+
+
+.container{
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.NN:hover > .drop-menu{
+    display: block;
+}
+.dropitem:hover > .drop-menu2{
+    display: block;
+}
+
+.drop-menu{
+    background-color: white;
+    position: absolute;
+    top: 70%;
+    left: 0;
+    padding: 10px 10px;
+    z-index: 2;
+    display: none;
+    list-style: none;
+
+
+}
+.drop-menu2{
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    top: 80%;
+    left: 90%;
+    padding: 10px 10px;
+    z-index: 2;
+    display: none;
+    list-style: none;
+
+
+}
+.drop-menu2:hover{
+    background-color: lightgrey;
+    padding: 10px;
+
+}
+
+.hh:hover{
+    background-color: #efefef;
+}
+
+.dropitem{
+    padding: 8px 10px;
+    list-style: none;
+    text-decoration:none ;
+    color: black;
+}
+.dropitem:hover{
+    background-color: lightgrey;
+    color: black;
+    text-decoration: none;
+}
+.dropitem:hover a{
+    background-color: lightgrey;
+    color: black;
+    text-decoration: none;
+}
+.bg-black{
+    background-color: grey;
+}
+.sstop{
+    position: sticky;
+    top: 0;
+    right: 0;
+}

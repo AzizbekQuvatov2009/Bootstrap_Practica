@@ -1,0 +1,52 @@
+body{
+    background-image: url("../images/color_body_bg_image.jpg");}
+.height{
+    height: 30px;
+}
+.w-20{
+    width: 20px;
+}
+.margin-left{
+    margin-left: -500px;
+}
+.text-kot{
+    margin-left: 600px;
+}
+.margin{
+    margin-left: -1200px;
+}
+.text-kit{
+    margin-left: 1150px;
+}
+.pinc{
+    background-color: pink;
+}
+.mt{
+    margin-top: -30px;
+}
+.mll{
+    margin-left: 100px;
+}
+.text-pinc{
+    color: pink;
+}
+.border-radius{
+    border-radius: 100px;
+}
+.heght{
+    height: 20px;
+}
+.mlll{
+    margin-left: 370px;
+    margin-top: -350px;
+}
+.mtt{
+    margin-top: -140px;
+}
+.mlil{
+    margin-left: 200px;
+}
+.lll{
+    margin-left: 130px;
+    margin-top: -150px;
+}
